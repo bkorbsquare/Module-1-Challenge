@@ -1,0 +1,1 @@
+Displays the "Horiseon" homepage with edits to the html and css to include semantic elements and a more logical structure and organization to the page. Given more time I would further compress and improve the css sheet. 
