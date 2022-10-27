@@ -5,7 +5,6 @@
 - This code displays the "Horiseon" homepage.
 - I wanted to deploy this site after adding comments and semantic elements without changing the page functionally or astetically.
 - I edited the html and css to include semantic elements so that this page is more accesible.
-- This increases accesibility and helps other developers walk through the code.
 - I learned which html tags are best used in standard practice and for accesibility. I learned how to name and connect css classes and what alt attributes are.
 - Given more time I would further compress and improve the css sheet.
 
